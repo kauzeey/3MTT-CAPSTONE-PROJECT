@@ -12,6 +12,7 @@ This project analyzes COVID-19 data to explore trends and patterns using explora
 - [Machine Learning Model](#machine-learning-model)
 - [Contributing](#contributing)
 - [License](#license)
+- 3MTTCAPSTONE PROJECT video analysis link (check issue)
 
 ## Introduction
 
